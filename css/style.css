@@ -31,6 +31,12 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
 }
 
+i{
+  color:#999;
+  font-size:medium;
+
+  
+}
 
 
 /* Prelaoder */
@@ -521,8 +527,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 
 #services .service-title {
-  margin-left: 80px;
-  font-weight: 700;
+  
+  font-weight: 500;
   margin-bottom: 15px;
   text-transform: uppercase;
 }
