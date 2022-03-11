@@ -745,6 +745,12 @@ figure.effect-marley:hover p {
   background-image: url(../img/7.jpg);
 }
 
+
+.container .card{
+  position: relative;
+  cursor: pointer;
+}
+
 .container .card .face{
   width: 300px;
   height: 200px;
